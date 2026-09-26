@@ -1,0 +1,12 @@
+dataset/
+work/
+output/
+models/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
